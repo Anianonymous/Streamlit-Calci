@@ -7,5 +7,4 @@ https://github.com/Anianonymous/Streamlit-Calci/assets/105560839/d7ff22c2-878f-4
 
 
 
-
-Link is given below to use my app: https://bit.ly/3lOKpqF
+Link to use my app: https://bit.ly/3lOKpqF
